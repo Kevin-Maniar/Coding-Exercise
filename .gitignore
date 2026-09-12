@@ -1,0 +1,4 @@
+# git ignored file extensions 
+
+*.exe
+*.vscode
